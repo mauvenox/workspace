@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="ledger-v2-demo-db@demo-ledger-pg.cvscrtozy15g.eu-west-1.rds.amazonaws.com" uuid="92be347e-c519-4927-8ac2-6c7697457f4b">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://demo-ledger-pg.cvscrtozy15g.eu-west-1.rds.amazonaws.com:5432/ledger-v2-demo-db</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
